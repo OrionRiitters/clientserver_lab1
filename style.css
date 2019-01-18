@@ -18,18 +18,45 @@ a {
     text-decoration: none;
 }
 
-img {
+.favorite-image {
     border: red 20px dashed;
+    opacity: 0.8;
+    filter: contrast(20000%)
 }
 
-#favorite_band {
-    color: black;
+#favorite-music-artist-name {
+    color: brown;
+    font-weight: bold;
 }
 
-#favorite_movie {
+#most-favorite-food {
+    font-size: 100px;
+    color: white;
+}
+
+#favorite-movie-title {
     color: red;
+    font-style: italic;
 }
-
-.favorite_section {
+#table-header {
+    color: magenta;
+}
+#table {
+    border: green 2px solid;
+    text-align: left;
+    margin: 4px;
+}
+.favorite-section {
     font-size: 24px;
+}
+.row-1 {
+    border-right: green 2px solid;
+    padding: 4px;
+}
+.row-2 {
+    border-right: green 2px solid;
+    padding: 4px;
+}
+.row-3 {
+    padding: 4px;
 }
