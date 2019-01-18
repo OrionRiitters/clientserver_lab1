@@ -1,0 +1,35 @@
+
+
+h1 {
+    text-align: center;
+    color: hsl(260, 100%, 50%);
+}
+
+h2 {
+    color: lightgreen
+}
+
+body {
+    background-color: cyan;
+}
+
+a {
+    color: pink;
+    text-decoration: none;
+}
+
+img {
+    border: red 20px dashed;
+}
+
+#favorite_band {
+    color: black;
+}
+
+#favorite_movie {
+    color: red;
+}
+
+.favorite_section {
+    font-size: 24px;
+}
